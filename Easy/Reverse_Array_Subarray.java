@@ -1,5 +1,22 @@
 //Reverse array in groups.
 //Given an array arr[] of positive integers of size N. Reverse every sub-array of K group elements.
+/*Example:
+Input
+4
+5 3
+1 2 3 4 5
+4 3
+5 6 8 9
+4 7
+5 6 8 9
+8 3
+1 2 3 4 5 6 7 8
+
+Output
+3 2 1 5 4
+8 6 5 9
+9 8 6 5
+3 2 1 6 5 4 8 7*/
 
 import java.io.*;
 import java.util.*;
