@@ -1,5 +1,5 @@
 #Remove duplicate elements from sorted Array
-#Given a sorted array A of size N. The function remove_duplicate takes two argu$
+#Given a sorted array A of size N. The function remove_duplicate takes two arguments . The first argument is the sorted array A[ ] and the second argument is 'N' the size of the array and returns the size of the new converted array A[ ] with no duplicate element.
 #n -> length of array, arr -> array
 def remove_duplicate(n, arr):
     i = 0
