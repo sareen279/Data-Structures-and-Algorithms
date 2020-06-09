@@ -2,6 +2,8 @@
 //Given an array A of N positive numbers. The task is to find the first Equilibium Point in the array. 
 //Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it.
 //The output should be based on 1 based indexing.
+//Expected Time Complexity - O(N)
+//Expected Auxiliary Space - O(1)
 
 import java.io.*;
 import java.util.*;
