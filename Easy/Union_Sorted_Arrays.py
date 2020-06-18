@@ -1,3 +1,9 @@
+#Union of Two Sorted Arrays
+#Given two sorted arrays arr[] and brr[] of size N and M respectively. The task is to find the union of these two arrays.
+#Union of two arrays can be defined as the common and distinct elements in the two arrays.
+#Expected Time Complexity: O(N+M)
+#Expected Auxiliary Space: O(N+M)
+
 def mergeArrays(a,b,n,m):
     lt = []
     i = 0
